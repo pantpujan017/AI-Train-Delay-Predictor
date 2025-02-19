@@ -1,6 +1,6 @@
 # 🚆 Train Delay Prediction using Machine Learning
 
-![Train Delay Prediction](https://source.unsplash.com/800x400/?train,railway)
+![Train Delay Prediction](Screenshot 2025-02-19 142536.png)
 
 ## 📌 Overview
 Train delays are a major issue affecting the railway industry. This project leverages **Machine Learning (ML)** to predict train delays based on historical data and operational parameters such as weather, congestion, and time of travel.
