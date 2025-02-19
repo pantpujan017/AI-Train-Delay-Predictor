@@ -3,7 +3,7 @@
 ![Train Delay Prediction](https://github.com/pantpujan017/AI-Train-Delay-Predictor/blob/4861841023b6c61b8c53d63275b10e2e93d37fb5/Screenshot%202025-02-19%20142536.png)
 
 ## 📌 Overview
-Train delays are a major issue affecting the railway industry. This project leverages **Machine Learning (ML)** to predict train delays based on historical data and operational parameters such as weather, congestion, and time of travel.
+Train delays are a major issue affecting the railway industry. This project leverages **Machine Learning (ML)** - Random Forest regressor to predict train delays based on historical data and operational parameters such as weather, congestion, and time of travel.
 
 The **Streamlit-based web app** allows users to enter train details and receive real-time delay predictions.
 
