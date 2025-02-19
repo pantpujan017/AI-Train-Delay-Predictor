@@ -44,9 +44,7 @@ python train_model.py
 streamlit run app.py
 ```
 
-## 🖥️ Screenshot
-### 🔹 Streamlit UI
-![App Screenshot](https://source.unsplash.com/800x400/?computer,code)
+
 
 
 ## 📌 Future Enhancements
@@ -58,5 +56,5 @@ streamlit run app.py
 This project is **MIT licensed**. Feel free to contribute!
 
 ---
-💡 _Built with ❤️ by [Your Name](https://github.com/yourusername)_
+💡 _Built with ❤️ by [Pujan Pant](https://github.com/pantpujan017)_
 
